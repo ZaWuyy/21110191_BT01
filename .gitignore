@@ -1,0 +1,14 @@
+# Bỏ qua node_modules
+node_modules/
+
+# Bỏ qua các file build
+build/
+dist/
+
+# Bỏ qua các file hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ qua lock files nếu không cần
+package-lock.json
+yarn.lock
